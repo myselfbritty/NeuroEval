@@ -13,7 +13,7 @@ cd NeuroEval
 conda create --name NeuroEval # (optional, for making a conda environment)
 pip install -r requirements.txt
 ~~~
-For NETS data, visit [Project page:](nets-iitd.github.io/nets_v1)
+For NETS data, visit [Project page](https://nets-iitd.github.io/nets_v1)
 
 ## Instructions to run
 
